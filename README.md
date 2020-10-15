@@ -1,3 +1,3 @@
 # Prodigy Speak Website
 
-A website for information for the underground Prodigy Speak community.
+A website with information/tools for the underground Prodigy Speak community.
